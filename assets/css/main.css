@@ -1,0 +1,9 @@
+
+/*Parte general del diseño*/
+*{
+	background-color: #0079BF ;
+}
+/* Ocultar botón radio */
+input[id^="add"]{
+display: none;
+}

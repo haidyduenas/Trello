@@ -3,7 +3,38 @@
 *{
 	background-color: #0079BF ;
 }
-/* Ocultar botón radio */
-input[id^="add"]{
-display: none;
+
+.add {
+
+	 background-color: white;
+}
+.logo {
+	background: #036299;
+	padding: 35px;
+}
+.logo img{
+	background: #036299;
+	color : white;
+}
+.btnDiv {
+	
+	background: white;
+	padding: 20px;
+	width: 30%;
+	height: 100px;
+}
+
+.myBtn {
+	width: 50%;
+	height: 30px;
+	position: left
+	background-color: green;
+}
+.myBtn2 {
+	position: right;
+	background-color: green;
+}
+
+#tareas {
+	background-color: white;
 }
